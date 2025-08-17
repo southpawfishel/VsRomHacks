@@ -1,5 +1,7 @@
 # Vs. Gradius Free Play Attract Mode
 
+[![Check out a demo of this hack in action](https://img.youtube.com/vi/zy1CTAb-dAQ/hqdefault.jpg)](https://youtu.be/zy1CTAb-dAQ)
+
 Features:  
 - The game will go into attract mode while in free play, limiting potential for burn in, and making your cabinet look cooler while it's powered on but not in use
 - Press 1p or 2p buttons to insert coins, then choose 1p or 2p game as normal
