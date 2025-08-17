@@ -14,3 +14,7 @@ TODO list:
 - [ ] Tennis
 
 If you have any questions, find me on the KLOV forums. I'm always happy  to help any way I can, as the arcade community has been such a tremendous resource to me and I want to pay it forward if I can.
+
+**_Disclaimer: I claim no ownership over the intellectual property of any of the games mentioned in this repository. I am simply an enthusiast of retro games who wants to create tools to help other enthusiasts enjoy their vintage arcade hardware. My romhacks do not contain the complete material needed to make a pirated copy of the game, as it's expected that you will have an original arcade board with the proper mappers and ROMs._**
+
+**_In my day job, I work on legal emulation techniques used by publishers to re-release old console games for modern platforms, so I very much respect the rights of IP holders and encourage non-piracy methods of game preservation whenever possible._**
